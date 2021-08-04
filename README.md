@@ -8,6 +8,6 @@ Die .cpp- und .h-Dateien werden im selben Ordner wie die .ino-Sketch gespeichert
 ```#include "Adafruit_TCS34725.h"``` 
 in die Sketch eingebunden.
 
-## Gemman I2C
+## Gemma I2C
 
 Bei Gemma ist Pad #0 Data und Pad #2 Clock.
